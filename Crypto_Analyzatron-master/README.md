@@ -1,4 +1,4 @@
-![Без названия (63) (1)](https://github.com/Omegon226/Crypto_Analyzatron/assets/69383841/6e95f499-96cf-4231-b7e1-82abea1a7400)
+![Без названия (63) (1)](https://github.com/HitLing/Crypto_Analyzatron-master/blob/main/Crypto_Analyzatron-master/278864907-6e95f499-96cf-4231-b7e1-82abea1a7400.png)
 
 <p align="center">ТГ Бот: https://t.me/CryptoAnalyzatronBot</p>
  
@@ -46,17 +46,17 @@
 
 ## Визуализация OHLC для Ethereum за последние 30 дней
 
-![image](https://github.com/Omegon226/Crypto_Analyzatron/assets/69383841/24ca0f30-a0be-4b1a-b79f-c9b5ac291f62)
+![image](https://github.com/HitLing/Crypto_Analyzatron-master/blob/main/Crypto_Analyzatron-master/278104157-24ca0f30-a0be-4b1a-b79f-c9b5ac291f62.png)
 
 ## Визуализация Market Chart (динамики изменения) для Solana за последние 30 дней
 
-![image](https://github.com/Omegon226/Crypto_Analyzatron/assets/69383841/f3979a0f-05c0-4abb-985b-2b1eda536b4c)
+![image]([https://github.com/Omegon226/Crypto_Analyzatron/assets/69383841/f3979a0f-05c0-4abb-985b-2b1eda536b4c](https://github.com/HitLing/Crypto_Analyzatron-master/blob/main/Crypto_Analyzatron-master/278104236-f3979a0f-05c0-4abb-985b-2b1eda536b4c.png))
 
 ## Статистика на текущий момент портфеля с криптоактивами пользователя
 
-![image](https://github.com/Omegon226/Crypto_Analyzatron/assets/69383841/ca163cd3-cca6-485d-9420-b7254072f1fd)
+![image](https://github.com/HitLing/Crypto_Analyzatron-master/blob/main/Crypto_Analyzatron-master/278104476-ca163cd3-cca6-485d-9420-b7254072f1fd.png)
 
 ## Изменения цены портфеля криптоактивов за последние 30 дней
 
-![image](https://github.com/Omegon226/Crypto_Analyzatron/assets/69383841/e070699b-662d-4514-993f-6bf77fb0dfce)
+![image](https://github.com/HitLing/Crypto_Analyzatron-master/blob/main/Crypto_Analyzatron-master/278104579-e070699b-662d-4514-993f-6bf77fb0dfce.png)
 
