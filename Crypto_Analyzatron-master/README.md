@@ -50,7 +50,7 @@
 
 ## Визуализация Market Chart (динамики изменения) для Solana за последние 30 дней
 
-![image]([https://github.com/Omegon226/Crypto_Analyzatron/assets/69383841/f3979a0f-05c0-4abb-985b-2b1eda536b4c](https://github.com/HitLing/Crypto_Analyzatron-master/blob/main/Crypto_Analyzatron-master/278104236-f3979a0f-05c0-4abb-985b-2b1eda536b4c.png))
+![image](https://github.com/HitLing/Crypto_Analyzatron-master/blob/main/Crypto_Analyzatron-master/278104236-f3979a0f-05c0-4abb-985b-2b1eda536b4c.png)
 
 ## Статистика на текущий момент портфеля с криптоактивами пользователя
 
